@@ -46,7 +46,7 @@ Sparrow 改变了我的偏见。
 
 另外，UTXO 模型天生适合财务记账。每一笔 UTXO 从哪来，Sparrow 的标签和 UTXO 列表能让你看得清清楚楚，比账户模型下一个笼统的“余额”清晰得多。
 
-![图片说明](/images/UTXO分类.jpg)
+![图片说明](https://github.com/hold1btc/bitcoin-knowledge-base/blob/main/02%20%E9%92%B1%E5%8C%85%E4%BD%BF%E7%94%A8/images/UTXO%E5%88%86%E7%B1%BB.jpg)
 
 ### 只支持 BTC，是特性不是 Bug
 
