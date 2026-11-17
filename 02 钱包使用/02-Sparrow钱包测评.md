@@ -66,7 +66,7 @@ BTC 和 ETH 是两套完全不同的记账模型。多链钱包为了兼容不�
 
 我以前用过的钱包，签名时基本就是点“确认”。Sparrow 是让你真正看清楚你要签的是什么。
 
-![图片说明](/images/手动调整费用.png)
+![图片说明]([/images/手动调整费用.png](https://github.com/hold1btc/bitcoin-knowledge-base/blob/main/02%20%E9%92%B1%E5%8C%85%E4%BD%BF%E7%94%A8/images/%E6%89%8B%E5%8A%A8%E8%B0%83%E6%95%B4%E8%B4%B9%E7%94%A8.png))
 
 ## Sparrow + 全节点：我踩的两个坑
 
@@ -110,7 +110,7 @@ Sparrow 的 Receive 页会给你很多地址，上面是收款地址，下面是
 
 但这里有 2 个原则：内部地址尽量不要互转，收款地址单人单用，这样才能更好地保护隐私。
 
-![图片说明](/images/utxo%2B标签.png)
+![图片说明]([/images/utxo%2B标签.png](https://github.com/hold1btc/bitcoin-knowledge-base/blob/main/02%20%E9%92%B1%E5%8C%85%E4%BD%BF%E7%94%A8/images/utxo%2B%E6%A0%87%E7%AD%BE.png))
 
 ### 发比特币
 
@@ -124,7 +124,7 @@ Sparrow 的 Receive 页会给你很多地址，上面是收款地址，下面是
 
 整个过程透明到你可以对每一笔交易负责。
 
-![图片说明](/images/资金流向清晰.jpg)
+![图片说明]([/images/资金流向清晰.jpg](https://github.com/hold1btc/bitcoin-knowledge-base/blob/main/02%20%E9%92%B1%E5%8C%85%E4%BD%BF%E7%94%A8/images/%E8%B5%84%E9%87%91%E6%B5%81%E5%90%91%E6%B8%85%E6%99%B0.jpg))
 
 ## 几个提高体验的习惯
 
